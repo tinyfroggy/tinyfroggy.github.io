@@ -46,6 +46,7 @@ section h2 {
   margin: 4rem;
 }
 
+
 h1,
 h2,
 h3,
@@ -371,6 +372,15 @@ footer {
 .footer_1 p {
   margin: 0 0 2rem;
 }
+.smolname{
+  color: yellow;
+}
+.lino{
+  color: blueviolet;
+}
+.smol{
+  color: black;
+}
 footer ul li {
   margin-bottom: 0.7rem;
 }
@@ -526,6 +536,9 @@ footer ul li a:hover {
 
   .nav_menu {
     right: 3%;
+  }
+  .nav_menu a{
+    font-size: 1.5rem;
   }
 
   header {
