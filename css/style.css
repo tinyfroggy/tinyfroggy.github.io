@@ -420,7 +420,7 @@ footer ul li a:hover {
   nav button {
     display: inline-block;
     background: transparent;
-    font-size: 1.8rem;
+    font-size: 2rem;
     color: var(--color-width);
     cursor: pointer;
   }
